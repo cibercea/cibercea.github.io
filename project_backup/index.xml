@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Cosmin I. Bercea</title>
-    <link>https://www.cibercea.github.io/tag/deep-learning/</link>
-      <atom:link href="https://www.cibercea.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep Learning</description>
+    <title>Project_backups | Cosmin I. Bercea</title>
+    <link>https://www.cibercea.github.io/project_backup/</link>
+      <atom:link href="https://www.cibercea.github.io/project_backup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project_backups</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.cibercea.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Deep Learning</title>
-      <link>https://www.cibercea.github.io/tag/deep-learning/</link>
+      <title>Project_backups</title>
+      <link>https://www.cibercea.github.io/project_backup/</link>
     </image>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://www.cibercea.github.io/project_backup/accomplishments_backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cibercea.github.io/project_backup/accomplishments_backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.cibercea.github.io/project_backup/projects_backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cibercea.github.io/project_backup/projects_backup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Federated Unsup</title>
