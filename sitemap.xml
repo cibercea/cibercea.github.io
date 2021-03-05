@@ -6,16 +6,10 @@
   </url><url>
     <loc>https://www.cibercea.github.io/project_backup/projects_backup/</loc>
   </url><url>
-    <loc>https://www.cibercea.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cibercea.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cibercea.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.cibercea.github.io/publication-type/1/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.cibercea.github.io/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.cibercea.github.io/publication_types/</loc>
@@ -53,5 +47,7 @@
     <loc>https://www.cibercea.github.io/categories/</loc>
   </url><url>
     <loc>https://www.cibercea.github.io/post/</loc>
+  </url><url>
+    <loc>https://www.cibercea.github.io/event/</loc>
   </url>
 </urlset>
