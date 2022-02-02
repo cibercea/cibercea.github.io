@@ -127,10 +127,10 @@ collections:
     name: bio
     required: false
     widget: string
-#   - label: Full biography (shown in About widget)
-#     name: body
-#     required: false
-#     widget: markdown
+  - label: Full biography (shown in About widget)
+    name: body
+    required: false
+    widget: markdown
   - label: Interests (shown in About widget)
     name: interests
     required: false
